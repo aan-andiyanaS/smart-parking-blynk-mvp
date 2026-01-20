@@ -206,7 +206,7 @@ void openGate(String tipe) {
 }
 
 void autoCloseGate() {
-  if (gateOpen && millis() - gateTime > 5000) {
+  if (gateOpen && millis() - gateTime > 2000) {
     gate.write(0);
     gateOpen = false;
     
