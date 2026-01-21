@@ -1,7 +1,5 @@
 # Smart Parking MVP - Blynk
 
----
-
 ## 🎯 Fitur MVP
 
 - ✅ 2 Sensor Ultrasonic (Entry/Exit)
@@ -312,6 +310,5 @@ Gate otomatis tutup setelah 5 detik
 ---
 
 **Waktu setup: ~30 menit**
-**Waktu demo: ~10 menit**
 
 Good luck! 🚀
