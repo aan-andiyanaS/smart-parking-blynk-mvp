@@ -9,9 +9,9 @@
  * - Monitoring via Blynk (4 widget)
  */
 
-#define BLYNK_TEMPLATE_ID "TMPL65mz3asUW"
-#define BLYNK_TEMPLATE_NAME "SmartParkingMVP"
-#define BLYNK_AUTH_TOKEN "0VoG_z3RBqFMHFjWq17CulMKNYiAZ1Y9"
+#define BLYNK_TEMPLATE_ID "ISI_TEMPLATE_ID"
+#define BLYNK_TEMPLATE_NAME "ISI_TEMPLATE_ID"
+#define BLYNK_AUTH_TOKEN "ISI_AUTH_TOKEN"
 
 #define BLYNK_PRINT Serial
 
@@ -21,8 +21,8 @@
 #include <LiquidCrystal_I2C.h>
 
 // ===== KONFIGURASI WiFi =====
-const char* ssid = "ANS030005";
-const char* pass = "71311311203";
+const char* ssid = "ISI_SSID";
+const char* pass = "ISI_PASSWORD";
 
 // ===== PIN SENSOR =====
 #define US_ENTRY_TRIG  1
