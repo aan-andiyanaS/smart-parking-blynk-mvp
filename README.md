@@ -1,7 +1,5 @@
 # Smart Parking MVP - Blynk
 
-**Versi paling sederhana untuk demo cepat (~2 jam setup)**
-
 ---
 
 ## 🎯 Fitur MVP
